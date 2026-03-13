@@ -1,0 +1,33 @@
+*{
+    margin: 2px;
+}
+
+#logo{
+    width: 200px;
+    border-radius: 50%;
+}
+
+  body{
+    background-color: white;
+    color: white;
+    width: 50%;
+  }
+
+  #detalle{
+    color: rgb(253, 53, 53)
+  }
+
+  #tarjeta{
+    background-color: rgb(39, 39, 39);
+    width: 8+0%;
+    height: 100%;
+    padding: 7%;
+    border: 2px solid rgb(197, 44, 44);
+    margin: 4px;
+    border-radius: 40px;
+
+  }
+
+  #empresa{
+    translate: 20% 0%;
+  }

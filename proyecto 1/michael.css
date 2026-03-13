@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(240, 252, 255);
+    width: 50%;
+
+}
+#titulo{
+    text-align: center;
+}
+
+*{
+    margin:10px;
+}
+
+#avatar{
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    border: 1px solid black;
+    translate: 80% 25%;
+    box-shadow: 5px 5px 10px rgb(123, 185, 179);
+}
+#contacto{
+    translate: 0px -70px;
+
+}
+
+#correo{
+    translate: 0px -70px;
+}
+
+#ubicacion{
+translate: 0px -70px;
+}

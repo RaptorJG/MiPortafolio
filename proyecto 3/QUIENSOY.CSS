@@ -1,0 +1,95 @@
+  #quiensoy{
+    width: 40%;
+    height: 100%;
+    translate: 60% 0%;
+
+  }
+
+  body{
+    margin: 0;
+
+  }
+
+  #pagina{
+    width: 100%;
+    height: 100%;
+  }
+
+  #cajaavatar{
+    width: 100%;
+    height: 100%;
+    background-color: #4b81ff;
+  }
+
+#avatarcentral{
+    width: 300px;
+    height: 300px;
+  translate: 270% 0%;
+  }
+
+  .texto2{
+    text-align: center;
+  }
+
+
+  .nav{
+     background-color: #4b81ff ;
+     transition: color 0.1s ease;
+  }
+
+  #nombre{
+    translate: 0% 80%;
+    color: white;
+  }
+
+  .cajaproyecto{
+    width: 80%;
+    height: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  .imagen{
+    width: 510px;
+    height: 200px;
+ translate: 0% 0%;
+
+  }
+
+  #botonleermas{
+    background-color: #4b81ff;
+    width: 110px;
+    height: 30px;
+    border-radius: 5px;
+  }
+
+  #leer{
+    text-align: center;
+    
+  }
+
+  #leermas{
+    color: white;
+    
+  }
+
+  #verproyecto{
+    color: white;
+    text-align: center;
+    
+  }
+
+  .botonverproyecto{
+     background-color: #4b81ff;
+     width: 110px;
+     height: 30px;
+     border-radius: 5px;
+     translate: 195px 0px;
+     text-align: center;
+  }
+
+  #menu{
+    text-align: right;
+    margin: 1px;
+    translate: 0% -120%;
+  }
